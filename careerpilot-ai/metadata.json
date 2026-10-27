@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI",
+  "description": "An AI job application assistant helping job seekers optimize resumes, assess job match, generate tailored cover letters, and prepare for interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
